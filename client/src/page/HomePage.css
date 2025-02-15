@@ -1,0 +1,17 @@
+*{
+    margin :0px;
+    padding:0px;
+    background-color: rgb(197, 227, 227);
+}
+
+h1{
+   text-align: center;
+   margin-top: 30px;
+   background-color: rgb(233, 213, 213);
+
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+ 
+ }
